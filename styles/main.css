@@ -255,3 +255,18 @@ h3 {
     display: flex;
     width: 100%;
 }
+.more {
+    font-family: 'Avenir heavy';
+    font-size: 16px;
+    margin: 0 auto;
+    width: 289px;
+    color: #222222;
+    background-color: #F2F2F2;
+    padding-left: 105px;
+    padding-right: 103px;
+    transform: translateY(50%);
+    padding-top: 17px;        
+    padding-bottom: 17px;
+    border-radius: 12px;
+    margin-top: 70px;
+}
