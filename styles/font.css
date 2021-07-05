@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: 'Avenir LT Pro';
+    font-family: 'Avenir book';
     src: url('../fonts/AvenirLTPro-Book.eot');
     src: url('../fonts/AvenirLTPro-Book.eot?#iefix') format('embedded-opentype'), url('../fonts/AvenirLTPro-Book.woff2') format('woff2'), url('../fonts/AvenirLTPro-Book.woff') format('woff'), url('../fonts/AvenirLTPro-Book.ttf') format('truetype'), url('../fonts/AvenirLTPro-Book.svg#AvenirLTPro-Book') format('svg');
     font-weight: normal;
